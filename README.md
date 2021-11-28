@@ -2,6 +2,7 @@
 File Organizer - (A college 3 rd sem project of basic python programming language)
 python script that arrange file in different manners.
 
+Sorting choices :- 
 1.For category wise like (Images , Python ,Videos )
 
 2.For extension wise like (jpg,png,mp3,mp4,mkv)

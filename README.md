@@ -9,9 +9,9 @@ python script that arrange file in different manners.
 3.For (YYYY -> Month -> Week) nested structure 
 
 script takes 3 input ,
-1. input is orgin path = a path where files is stored
+1. input is origin path = a path where files is stored
 
 3. destination path = a path where files will be store in sorted manner
 
-4. choice in what manner files will be arranged.
+4. choice = in what manner files will be arranged.
 
